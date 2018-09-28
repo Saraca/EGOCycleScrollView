@@ -16,6 +16,7 @@
 		10E58E60215DDFE000C3EB5F /* EGOCycleScrollViewExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 10E58E5F215DDFE000C3EB5F /* EGOCycleScrollViewExampleTests.m */; };
 		10E58E6B215DDFE000C3EB5F /* EGOCycleScrollViewExampleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 10E58E6A215DDFE000C3EB5F /* EGOCycleScrollViewExampleUITests.m */; };
 		10E58E7B215DE01E00C3EB5F /* EGOCycleScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 10E58E7A215DE01E00C3EB5F /* EGOCycleScrollView.m */; };
+		10E58E7D215DFA9400C3EB5F /* EGOCycleScrollView-Demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 10E58E7C215DFA9400C3EB5F /* EGOCycleScrollView-Demo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		10E58E6C215DDFE000C3EB5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		10E58E79215DE01E00C3EB5F /* EGOCycleScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EGOCycleScrollView.h; sourceTree = "<group>"; };
 		10E58E7A215DE01E00C3EB5F /* EGOCycleScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EGOCycleScrollView.m; sourceTree = "<group>"; };
+		10E58E7C215DFA9400C3EB5F /* EGOCycleScrollView-Demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "EGOCycleScrollView-Demo.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				10E58E51215DDFE000C3EB5F /* LaunchScreen.storyboard */,
 				10E58E54215DDFE000C3EB5F /* Info.plist */,
 				10E58E55215DDFE000C3EB5F /* main.m */,
+				10E58E7C215DFA9400C3EB5F /* EGOCycleScrollView-Demo.gif */,
 			);
 			path = EGOCycleScrollViewExample;
 			sourceTree = "<group>";
@@ -250,6 +253,7 @@
 			files = (
 				10E58E53215DDFE000C3EB5F /* LaunchScreen.storyboard in Resources */,
 				10E58E50215DDFE000C3EB5F /* Assets.xcassets in Resources */,
+				10E58E7D215DFA9400C3EB5F /* EGOCycleScrollView-Demo.gif in Resources */,
 				10E58E4E215DDFD500C3EB5F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
