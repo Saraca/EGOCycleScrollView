@@ -7,4 +7,6 @@
 
 
 效果：
+
+
 ![image](https://github.com/Saraca/EGOCycleScrollView/blob/master/EGOCycleScrollViewExample/EGOCycleScrollView-Demo.gif)
